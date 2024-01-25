@@ -103,7 +103,7 @@ while page != final_page:
                     else:
                         inc = str(day_counter)
                     file = (
-                        open("/home/s/smc497/Project/Dissertation/"+
+                        open("/home/s/Project/Dissertation/"+
                             "2011/"+ #FOLDER NAME
                              year+"."+month+"."+ddd+"_"+inc+".txt", "w"))
                     title = browser.find_element_by_xpath(
