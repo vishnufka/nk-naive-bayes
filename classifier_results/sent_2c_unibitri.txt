@@ -1,0 +1,204 @@
+sent_2c_unibitri
+Most Informative Features
+             kim_jong_il = True              pos : neg    =     60.3 : 1.0
+                   great = True              pos : neg    =     51.0 : 1.0
+                  songun = True              pos : neg    =     51.0 : 1.0
+           revolutionary = True              pos : neg    =     45.7 : 1.0
+           korean people = True              pos : neg    =     39.7 : 1.0
+       the korean people = True              pos : neg    =     38.3 : 1.0
+               socialist = True              pos : neg    =     27.0 : 1.0
+                building = True              pos : neg    =     21.7 : 1.0
+                    idea = True              pos : neg    =     17.0 : 1.0
+                   group = True              neg : pos    =     17.0 : 1.0
+                reckless = True              neg : pos    =     17.0 : 1.0
+                  always = True              pos : neg    =     16.3 : 1.0
+                  firmly = True              pos : neg    =     15.0 : 1.0
+                   cause = True              pos : neg    =     13.4 : 1.0
+                  fellow = True              neg : pos    =     13.0 : 1.0
+              countrymen = True              neg : pos    =     13.0 : 1.0
+              warmongers = True              neg : pos    =     13.0 : 1.0
+       fellow countrymen = True              neg : pos    =     13.0 : 1.0
+                     wpk = True              pos : neg    =     12.3 : 1.0
+                      `` = True              neg : pos    =     12.1 : 1.0
+                      '' = True              neg : pos    =     11.9 : 1.0
+                  threat = True              neg : pos    =     11.7 : 1.0
+         army and people = True              pos : neg    =     11.7 : 1.0
+                   never = True              neg : pos    =     11.0 : 1.0
+                     war = True              neg : pos    =     10.9 : 1.0
+           confrontation = True              neg : pos    =     10.7 : 1.0
+                 country = True              pos : neg    =     10.7 : 1.0
+                     era = True              pos : neg    =     10.3 : 1.0
+                    even = True              neg : pos    =     10.3 : 1.0
+                   might = True              pos : neg    =     10.3 : 1.0
+                  puppet = True              neg : pos    =     10.2 : 1.0
+        against the dprk = True              neg : pos    =      9.9 : 1.0
+                     usa = True              neg : pos    =      9.8 : 1.0
+                    life = True              pos : neg    =      9.8 : 1.0
+             war against = True              neg : pos    =      9.7 : 1.0
+                     rok = True              neg : pos    =      9.4 : 1.0
+             nuclear war = True              neg : pos    =      9.4 : 1.0
+           policy toward = True              neg : pos    =      9.0 : 1.0
+                 devoted = True              pos : neg    =      9.0 : 1.0
+               situation = True              neg : pos    =      9.0 : 1.0
+          hostile policy = True              neg : pos    =      9.0 : 1.0
+            independence = True              pos : neg    =      9.0 : 1.0
+                   japan = True              neg : pos    =      8.7 : 1.0
+               said that = True              pos : neg    =      8.7 : 1.0
+                  people = True              pos : neg    =      8.7 : 1.0
+              leadership = True              pos : neg    =      8.6 : 1.0
+                   party = True              pos : neg    =      8.4 : 1.0
+   hostile policy toward = True              neg : pos    =      8.3 : 1.0
+               secretary = True              pos : neg    =      8.3 : 1.0
+                  turned = True              pos : neg    =      8.3 : 1.0
+                 advance = True              pos : neg    =      8.3 : 1.0
+               commander = True              pos : neg    =      8.3 : 1.0
+                      he = True              pos : neg    =      8.1 : 1.0
+                 he said = True              pos : neg    =      7.7 : 1.0
+                 leading = True              pos : neg    =      7.7 : 1.0
+                 efforts = True              pos : neg    =      7.7 : 1.0
+               anti-dprk = True              neg : pos    =      7.7 : 1.0
+                  defend = True              pos : neg    =      7.7 : 1.0
+                  toward = True              neg : pos    =      7.0 : 1.0
+         war against the = True              neg : pos    =      7.0 : 1.0
+               can never = True              neg : pos    =      7.0 : 1.0
+                historic = True              pos : neg    =      7.0 : 1.0
+              successful = True              pos : neg    =      7.0 : 1.0
+                 towards = True              neg : pos    =      7.0 : 1.0
+            struggle for = True              pos : neg    =      7.0 : 1.0
+                chairman = True              pos : neg    =      7.0 : 1.0
+                   noted = True              pos : neg    =      7.0 : 1.0
+                   power = True              pos : neg    =      6.8 : 1.0
+           said that the = True              pos : neg    =      6.6 : 1.0
+                struggle = True              pos : neg    =      6.4 : 1.0
+                    said = True              pos : neg    =      6.4 : 1.0
+                     day = True              pos : neg    =      6.3 : 1.0
+                     kim = True              pos : neg    =      6.3 : 1.0
+                  colors = True              neg : pos    =      6.3 : 1.0
+                    well = True              neg : pos    =      6.3 : 1.0
+                   issue = True              neg : pos    =      6.3 : 1.0
+                    hard = True              neg : pos    =      6.3 : 1.0
+                speakers = True              pos : neg    =      6.3 : 1.0
+                campaign = True              neg : pos    =      6.3 : 1.0
+                 against = True              neg : pos    =      6.3 : 1.0
+                    such = True              neg : pos    =      6.1 : 1.0
+                    army = True              pos : neg    =      6.1 : 1.0
+              aggression = True              neg : pos    =      5.9 : 1.0
+                    acts = True              neg : pos    =      5.7 : 1.0
+      the popular masses = True              pos : neg    =      5.7 : 1.0
+                 popular = True              pos : neg    =      5.7 : 1.0
+                , adding = True              pos : neg    =      5.7 : 1.0
+                  not be = True              neg : pos    =      5.7 : 1.0
+                  before = True              pos : neg    =      5.7 : 1.0
+           , chairman of = True              pos : neg    =      5.7 : 1.0
+                as it is = True              neg : pos    =      5.7 : 1.0
+          popular masses = True              pos : neg    =      5.7 : 1.0
+                 praised = True              pos : neg    =      5.7 : 1.0
+                 carried = True              pos : neg    =      5.7 : 1.0
+                  masses = True              pos : neg    =      5.7 : 1.0
+  confrontation with the = True              neg : pos    =      5.7 : 1.0
+                     man = True              pos : neg    =      5.7 : 1.0
+      confrontation with = True              neg : pos    =      5.6 : 1.0
+                  policy = True              neg : pos    =      5.4 : 1.0
+           a nuclear war = True              neg : pos    =      5.4 : 1.0
+                    once = True              neg : pos    =      5.4 : 1.0
+                with his = True              pos : neg    =      5.4 : 1.0
+                    dear = True              pos : neg    =      5.4 : 1.0
+                     his = True              pos : neg    =      5.1 : 1.0
+               displayed = True              pos : neg    =      5.0 : 1.0
+                  mental = True              pos : neg    =      5.0 : 1.0
+               to defend = True              pos : neg    =      5.0 : 1.0
+                 frantic = True              neg : pos    =      5.0 : 1.0
+              technology = True              pos : neg    =      5.0 : 1.0
+                    good = True              pos : neg    =      5.0 : 1.0
+         toward the dprk = True              neg : pos    =      5.0 : 1.0
+                 dynamic = True              pos : neg    =      5.0 : 1.0
+                   final = True              pos : neg    =      5.0 : 1.0
+        on the peninsula = True              neg : pos    =      5.0 : 1.0
+               , he said = True              pos : neg    =      5.0 : 1.0
+  the confrontation with = True              neg : pos    =      5.0 : 1.0
+              rok puppet = True              neg : pos    =      5.0 : 1.0
+                     the = False             neg : pos    =      5.0 : 1.0
+                     led = True              pos : neg    =      5.0 : 1.0
+                national = True              pos : neg    =      4.9 : 1.0
+          the rok puppet = True              neg : pos    =      4.6 : 1.0
+                   a new = True              pos : neg    =      4.4 : 1.0
+                 pushing = True              neg : pos    =      4.3 : 1.0
+           reactionaries = True              neg : pos    =      4.3 : 1.0
+           , adding that = True              pos : neg    =      4.3 : 1.0
+                  better = True              neg : pos    =      4.3 : 1.0
+                   alive = True              pos : neg    =      4.3 : 1.0
+              capability = True              pos : neg    =      4.3 : 1.0
+             adding that = True              pos : neg    =      4.3 : 1.0
+                 man who = True              pos : neg    =      4.3 : 1.0
+       policy toward the = True              neg : pos    =      4.3 : 1.0
+                  highly = True              pos : neg    =      4.3 : 1.0
+ successful nuclear test = True              pos : neg    =      4.3 : 1.0
+                 century = True              pos : neg    =      4.3 : 1.0
+               expressed = True              pos : neg    =      4.3 : 1.0
+     revolutionary armed = True              pos : neg    =      4.3 : 1.0
+           fact that the = True              neg : pos    =      4.3 : 1.0
+revolutionary armed forces = True              pos : neg    =      4.3 : 1.0
+      successful nuclear = True              pos : neg    =      4.3 : 1.0
+                 service = True              pos : neg    =      4.3 : 1.0
+                    keen = True              neg : pos    =      4.3 : 1.0
+                 hostile = True              neg : pos    =      4.3 : 1.0
+              resolution = True              neg : pos    =      4.2 : 1.0
+                   unity = True              pos : neg    =      4.1 : 1.0
+           on the korean = True              neg : pos    =      4.1 : 1.0
+                  should = True              neg : pos    =      4.1 : 1.0
+                     but = True              neg : pos    =      3.9 : 1.0
+                   years = True              pos : neg    =      3.8 : 1.0
+                      we = True              pos : neg    =      3.8 : 1.0
+                 defence = True              pos : neg    =      3.8 : 1.0
+                   fully = True              pos : neg    =      3.8 : 1.0
+                they are = True              neg : pos    =      3.8 : 1.0
+       supreme commander = True              pos : neg    =      3.7 : 1.0
+                 destiny = True              pos : neg    =      3.7 : 1.0
+               principle = True              pos : neg    =      3.7 : 1.0
+                   joint = True              neg : pos    =      3.7 : 1.0
+             imperialism = True              pos : neg    =      3.7 : 1.0
+                   these = True              neg : pos    =      3.7 : 1.0
+               their own = True              pos : neg    =      3.7 : 1.0
+               indicates = True              pos : neg    =      3.7 : 1.0
+                       ( = True              pos : neg    =      3.7 : 1.0
+                has been = True              pos : neg    =      3.7 : 1.0
+                       ) = True              pos : neg    =      3.7 : 1.0
+                   china = True              neg : pos    =      3.7 : 1.0
+              that it is = True              neg : pos    =      3.7 : 1.0
+                  called = True              pos : neg    =      3.7 : 1.0
+               officials = True              pos : neg    =      3.7 : 1.0
+            without fail = True              pos : neg    =      3.7 : 1.0
+         adding that the = True              pos : neg    =      3.7 : 1.0
+                 outside = True              neg : pos    =      3.7 : 1.0
+  reunification movement = True              neg : pos    =      3.7 : 1.0
+                    very = True              neg : pos    =      3.7 : 1.0
+                  itself = True              neg : pos    =      3.7 : 1.0
+                meetings = True              pos : neg    =      3.7 : 1.0
+                   times = True              pos : neg    =      3.7 : 1.0
+             declaration = True              neg : pos    =      3.7 : 1.0
+      anti-reunification = True              neg : pos    =      3.7 : 1.0
+        satellite launch = True              neg : pos    =      3.7 : 1.0
+ the revolutionary armed = True              pos : neg    =      3.7 : 1.0
+                  sacred = True              pos : neg    =      3.7 : 1.0
+                    fail = True              pos : neg    =      3.7 : 1.0
+          rok warmongers = True              neg : pos    =      3.7 : 1.0
+               different = True              neg : pos    =      3.7 : 1.0
+               peninsula = True              neg : pos    =      3.5 : 1.0
+                     all = True              pos : neg    =      3.5 : 1.0
+                 article = True              pos : neg    =      3.4 : 1.0
+       the korean nation = True              neg : pos    =      3.4 : 1.0
+                 support = True              pos : neg    =      3.4 : 1.0
+                 general = True              pos : neg    =      3.4 : 1.0
+                      up = True              neg : pos    =      3.3 : 1.0
+             development = True              pos : neg    =      3.3 : 1.0
+               committee = True              pos : neg    =      3.3 : 1.0
+                 history = True              pos : neg    =      3.3 : 1.0
+        korean peninsula = True              neg : pos    =      3.1 : 1.0
+    the korean peninsula = True              neg : pos    =      3.1 : 1.0
+                     its = True              neg : pos    =      3.0 : 1.0
+                centered = True              pos : neg    =      3.0 : 1.0
+               provoke a = True              neg : pos    =      3.0 : 1.0
+                  social = True              neg : pos    =      3.0 : 1.0
+          self-defensive = True              pos : neg    =      3.0 : 1.0
+0.99
+completed in 22.841346824169158 minutes

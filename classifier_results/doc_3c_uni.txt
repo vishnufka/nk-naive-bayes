@@ -1,0 +1,54 @@
+doc_3c_uni
+Most Informative Features
+             kim_jong_il = True              pos : neg    =     58.3 : 1.0
+                 against = True              neg : neutra =     41.0 : 1.0
+                  leader = True              pos : neg    =     36.0 : 1.0
+           revolutionary = True              pos : neg    =     35.7 : 1.0
+                  puppet = True              neg : pos    =     30.5 : 1.0
+                       : = True              neg : neutra =     26.4 : 1.0
+                     rok = True              neg : neutra =     21.5 : 1.0
+                    idea = True              pos : neutra =     21.0 : 1.0
+              revolution = True              pos : neutra =     20.2 : 1.0
+                   human = True              neg : neutra =     20.2 : 1.0
+             kim_jong_un = True              pos : neg    =     19.6 : 1.0
+               anti-dprk = True              neg : pos    =     19.3 : 1.0
+                    even = True              neg : neutra =     19.1 : 1.0
+                      '' = True              neg : neutra =     18.3 : 1.0
+                      `` = True              neg : neutra =     18.3 : 1.0
+               situation = True              neg : neutra =     17.9 : 1.0
+                  events = True           neutra : neg    =     16.5 : 1.0
+                  always = True              pos : neutra =     16.4 : 1.0
+                 victory = True              pos : neutra =     15.7 : 1.0
+                    goes = True              neg : neutra =     15.5 : 1.0
+                   cause = True              pos : neg    =     14.8 : 1.0
+                  should = True              neg : neutra =     14.4 : 1.0
+                  policy = True              neg : neutra =     14.3 : 1.0
+              resolution = True              neg : pos    =     14.0 : 1.0
+                   tasks = True              pos : neg    =     13.8 : 1.0
+                  before = True              neg : neutra =     13.7 : 1.0
+                   bring = True              neg : neutra =     13.7 : 1.0
+                    hard = True              neg : neutra =     13.7 : 1.0
+                 nuclear = True              neg : neutra =     13.7 : 1.0
+               according = True              neg : pos    =     13.5 : 1.0
+                politics = True              pos : neutra =     13.4 : 1.0
+                 marshal = True              pos : neg    =     13.3 : 1.0
+                campaign = True              neg : neutra =     13.1 : 1.0
+                   juche = True              pos : neutra =     12.9 : 1.0
+                  formed = True           neutra : neg    =     12.8 : 1.0
+             kim_il_sung = True              pos : neg    =     12.8 : 1.0
+                 undying = True              pos : neutra =     12.6 : 1.0
+               performed = True              pos : neutra =     12.6 : 1.0
+            independence = True              pos : neutra =     12.6 : 1.0
+                   drive = True              pos : neg    =     12.2 : 1.0
+                chairman = True              pos : neg    =     12.0 : 1.0
+                 pretext = True              neg : pos    =     11.9 : 1.0
+              dprk-south = True              neg : pos    =     11.9 : 1.0
+                   noble = True              pos : neutra =     11.8 : 1.0
+               defending = True              pos : neutra =     11.8 : 1.0
+                 serious = True              neg : neutra =     11.8 : 1.0
+           reunification = True              neg : neutra =     11.8 : 1.0
+               commander = True              pos : neg    =     11.3 : 1.0
+               important = True              pos : neg    =     11.3 : 1.0
+                     but = True              neg : neutra =     11.3 : 1.0
+91%
+completed in 114.67451100349426 minutes

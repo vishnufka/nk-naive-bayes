@@ -1,0 +1,204 @@
+doc_2c_unibitri
+Most Informative Features
+             kim_jong_il = True              pos : neg    =     58.3 : 1.0
+                  leader = True              pos : neg    =     36.0 : 1.0
+           revolutionary = True              pos : neg    =     35.7 : 1.0
+                  puppet = True              neg : pos    =     30.5 : 1.0
+             kim_jong_un = True              pos : neg    =     19.6 : 1.0
+               anti-dprk = True              neg : pos    =     19.3 : 1.0
+                   cause = True              pos : neg    =     14.8 : 1.0
+              resolution = True              neg : pos    =     14.0 : 1.0
+           social system = True              neg : pos    =     14.0 : 1.0
+                   tasks = True              pos : neg    =     13.8 : 1.0
+               according = True              neg : pos    =     13.5 : 1.0
+              revolution = True              pos : neg    =     13.3 : 1.0
+                 marshal = True              pos : neg    =     13.3 : 1.0
+             kim_il_sung = True              pos : neg    =     12.8 : 1.0
+                   drive = True              pos : neg    =     12.2 : 1.0
+                chairman = True              pos : neg    =     12.0 : 1.0
+                     rok = True              neg : pos    =     11.9 : 1.0
+                 pretext = True              neg : pos    =     11.9 : 1.0
+              dprk-south = True              neg : pos    =     11.9 : 1.0
+                 against = True              neg : pos    =     11.9 : 1.0
+               important = True              pos : neg    =     11.3 : 1.0
+               commander = True              pos : neg    =     11.3 : 1.0
+supreme leader kim_jong_un = True              pos : neg    =     11.3 : 1.0
+     marshal kim_jong_un = True              pos : neg    =     11.3 : 1.0
+                   where = True              neg : pos    =     10.9 : 1.0
+                  rights = True              neg : pos    =     10.8 : 1.0
+                  events = True              pos : neg    =     10.5 : 1.0
+                 science = True              pos : neg    =     10.5 : 1.0
+                    stop = True              neg : pos    =     10.3 : 1.0
+                occasion = True              pos : neg    =     10.2 : 1.0
+                    even = True              neg : pos    =     10.0 : 1.0
+                    paid = True              pos : neg    =      9.6 : 1.0
+               attention = True              pos : neg    =      9.6 : 1.0
+              scientific = True              pos : neg    =      9.6 : 1.0
+                  formed = True              pos : neg    =      9.6 : 1.0
+                    care = True              pos : neg    =      9.6 : 1.0
+                reckless = True              neg : pos    =      9.3 : 1.0
+                     act = True              neg : pos    =      9.3 : 1.0
+               president = True              pos : neg    =      9.3 : 1.0
+                    down = True              neg : pos    =      9.1 : 1.0
+                   juche = True              pos : neg    =      9.0 : 1.0
+                  thanks = True              pos : neg    =      8.3 : 1.0
+                  social = True              neg : pos    =      8.3 : 1.0
+                    take = True              neg : pos    =      8.2 : 1.0
+                declared = True              neg : pos    =      8.2 : 1.0
+                 develop = True              pos : neg    =      8.0 : 1.0
+               happiness = True              pos : neg    =      8.0 : 1.0
+                 leading = True              pos : neg    =      8.0 : 1.0
+                steadily = True              pos : neg    =      8.0 : 1.0
+                      ri = True              pos : neg    =      8.0 : 1.0
+             anniversary = True              pos : neg    =      7.9 : 1.0
+               can never = True              neg : pos    =      7.7 : 1.0
+                 realize = True              neg : pos    =      7.7 : 1.0
+                  report = True              neg : pos    =      7.7 : 1.0
+                  public = True              neg : pos    =      7.5 : 1.0
+                    what = True              neg : pos    =      7.5 : 1.0
+                     3rd = True              pos : neg    =      7.4 : 1.0
+                     led = True              pos : neg    =      7.3 : 1.0
+                 foreign = True              neg : pos    =      7.2 : 1.0
+            consequences = True              neg : pos    =      7.2 : 1.0
+                pressure = True              neg : pos    =      7.2 : 1.0
+                      go = True              neg : pos    =      7.2 : 1.0
+              themselves = True              neg : pos    =      7.2 : 1.0
+                      mt = True              pos : neg    =      7.1 : 1.0
+              importance = True              pos : neg    =      7.1 : 1.0
+                campaign = True              neg : pos    =      6.8 : 1.0
+                     era = True              pos : neg    =      6.8 : 1.0
+                 already = True              neg : pos    =      6.6 : 1.0
+               concerned = True              neg : pos    =      6.6 : 1.0
+                entailed = True              neg : pos    =      6.6 : 1.0
+                   seoul = True              neg : pos    =      6.6 : 1.0
+                     she = True              neg : pos    =      6.6 : 1.0
+                     law = True              neg : pos    =      6.6 : 1.0
+             be entailed = True              neg : pos    =      6.6 : 1.0
+                     his = True              pos : neg    =      6.5 : 1.0
+                assembly = True              neg : pos    =      6.5 : 1.0
+                    gave = True              pos : neg    =      6.3 : 1.0
+                greatest = True              pos : neg    =      6.3 : 1.0
+           final victory = True              pos : neg    =      6.3 : 1.0
+                   april = True              pos : neg    =      6.3 : 1.0
+          will always be = True              pos : neg    =      6.3 : 1.0
+                 highest = True              pos : neg    =      6.3 : 1.0
+               dedicated = True              pos : neg    =      6.3 : 1.0
+                   pyong = True              pos : neg    =      6.3 : 1.0
+              technology = True              pos : neg    =      6.3 : 1.0
+                  detail = True              pos : neg    =      6.3 : 1.0
+                   faith = True              pos : neg    =      6.3 : 1.0
+                original = True              pos : neg    =      6.3 : 1.0
+                  modern = True              pos : neg    =      6.3 : 1.0
+               secretary = True              pos : neg    =      6.3 : 1.0
+               more than = True              neg : pos    =      6.2 : 1.0
+                 serious = True              neg : pos    =      6.2 : 1.0
+                    cost = True              neg : pos    =      6.1 : 1.0
+                  troops = True              neg : pos    =      6.1 : 1.0
+                    fire = True              neg : pos    =      6.1 : 1.0
+            working hard = True              neg : pos    =      6.1 : 1.0
+                     her = True              neg : pos    =      6.1 : 1.0
+                    huge = True              neg : pos    =      6.1 : 1.0
+           confrontation = True              neg : pos    =      6.1 : 1.0
+             mercilessly = True              neg : pos    =      6.1 : 1.0
+                  always = True              pos : neg    =      6.0 : 1.0
+                   prove = True              neg : pos    =      5.9 : 1.0
+                   never = True              neg : pos    =      5.8 : 1.0
+                   first = True              pos : neg    =      5.7 : 1.0
+                    deep = True              pos : neg    =      5.6 : 1.0
+                   noble = True              pos : neg    =      5.6 : 1.0
+                any cost = True              neg : pos    =      5.6 : 1.0
+                escalate = True              neg : pos    =      5.6 : 1.0
+                  toward = True              neg : pos    =      5.6 : 1.0
+                  behind = True              neg : pos    =      5.6 : 1.0
+          be entailed by = True              neg : pos    =      5.6 : 1.0
+                    talk = True              neg : pos    =      5.6 : 1.0
+                 hostile = True              neg : pos    =      5.6 : 1.0
+                 staging = True              neg : pos    =      5.6 : 1.0
+                   taken = True              neg : pos    =      5.6 : 1.0
+                  friday = True              neg : pos    =      5.6 : 1.0
+             at any cost = True              neg : pos    =      5.6 : 1.0
+     international arena = True              neg : pos    =      5.6 : 1.0
+                   march = True              pos : neg    =      5.5 : 1.0
+                     pak = True              pos : neg    =      5.5 : 1.0
+                     han = True              pos : neg    =      5.5 : 1.0
+                 himself = True              pos : neg    =      5.5 : 1.0
+                    hong = True              pos : neg    =      5.5 : 1.0
+            be fulfilled = True              pos : neg    =      5.5 : 1.0
+                 culture = True              pos : neg    =      5.5 : 1.0
+             ideological = True              pos : neg    =      5.5 : 1.0
+                    love = True              pos : neg    =      5.5 : 1.0
+                  heroic = True              pos : neg    =      5.5 : 1.0
+               fulfilled = True              pos : neg    =      5.5 : 1.0
+                praising = True              pos : neg    =      5.5 : 1.0
+                    sang = True              pos : neg    =      5.5 : 1.0
+                    play = True              pos : neg    =      5.5 : 1.0
+               published = True              pos : neg    =      5.5 : 1.0
+              developing = True              pos : neg    =      5.3 : 1.0
+                   round = True              pos : neg    =      5.3 : 1.0
+                 central = True              pos : neg    =      5.3 : 1.0
+             provocation = True              neg : pos    =      5.2 : 1.0
+                   phase = True              neg : pos    =      5.2 : 1.0
+                   right = True              neg : pos    =      5.2 : 1.0
+                    past = True              neg : pos    =      5.2 : 1.0
+               operation = True              neg : pos    =      5.2 : 1.0
+                     him = True              pos : neg    =      5.2 : 1.0
+               situation = True              neg : pos    =      5.2 : 1.0
+                   human = True              neg : pos    =      5.2 : 1.0
+                   bring = True              neg : pos    =      5.1 : 1.0
+                 nuclear = True              neg : pos    =      5.1 : 1.0
+             compatriots = True              neg : pos    =      5.0 : 1.0
+                   quite = True              neg : pos    =      5.0 : 1.0
+                 council = True              neg : pos    =      5.0 : 1.0
+                  abuses = True              neg : pos    =      5.0 : 1.0
+              prevailing = True              neg : pos    =      5.0 : 1.0
+    military demarcation = True              neg : pos    =      5.0 : 1.0
+               institute = True              neg : pos    =      5.0 : 1.0
+        demarcation line = True              neg : pos    =      5.0 : 1.0
+military demarcation line = True              neg : pos    =      5.0 : 1.0
+             demarcation = True              neg : pos    =      5.0 : 1.0
+                  leader = False             neg : pos    =      5.0 : 1.0
+                 workers = True              pos : neg    =      4.9 : 1.0
+                    work = True              pos : neg    =      4.8 : 1.0
+                  noting = True              pos : neg    =      4.8 : 1.0
+              thoroughly = True              pos : neg    =      4.8 : 1.0
+           took place in = True              pos : neg    =      4.8 : 1.0
+                    very = True              pos : neg    =      4.8 : 1.0
+                    than = True              neg : pos    =      4.7 : 1.0
+                      if = True              neg : pos    =      4.7 : 1.0
+                     usa = True              neg : pos    =      4.7 : 1.0
+                     jae = True              pos : neg    =      4.6 : 1.0
+             on nov. 13. = True              pos : neg    =      4.6 : 1.0
+            consolidated = True              pos : neg    =      4.6 : 1.0
+                     nam = True              pos : neg    =      4.6 : 1.0
+     underlined the need = True              pos : neg    =      4.6 : 1.0
+                nov. 13. = True              pos : neg    =      4.6 : 1.0
+                    book = True              pos : neg    =      4.6 : 1.0
+               respected = True              pos : neg    =      4.6 : 1.0
+              commanding = True              pos : neg    =      4.6 : 1.0
+           allied forces = True              pos : neg    =      4.6 : 1.0
+                  deeply = True              pos : neg    =      4.6 : 1.0
+            requirements = True              pos : neg    =      4.6 : 1.0
+                industry = True              pos : neg    =      4.6 : 1.0
+                defended = True              pos : neg    =      4.6 : 1.0
+                   vital = True              pos : neg    =      4.6 : 1.0
+                  allied = True              pos : neg    =      4.6 : 1.0
+                  photos = True              pos : neg    =      4.6 : 1.0
+                    idea = True              pos : neg    =      4.6 : 1.0
+                  drills = True              neg : pos    =      4.6 : 1.0
+              operations = True              neg : pos    =      4.6 : 1.0
+               committed = True              neg : pos    =      4.6 : 1.0
+                   issue = True              neg : pos    =      4.6 : 1.0
+             kim_jong_il = False             neg : pos    =      4.5 : 1.0
+                adoption = True              neg : pos    =      4.5 : 1.0
+                  fellow = True              neg : pos    =      4.5 : 1.0
+               denounced = True              neg : pos    =      4.5 : 1.0
+                      10 = True              neg : pos    =      4.5 : 1.0
+                   facts = True              neg : pos    =      4.5 : 1.0
+                  bodies = True              neg : pos    =      4.5 : 1.0
+              countrymen = True              neg : pos    =      4.5 : 1.0
+                   front = True              neg : pos    =      4.5 : 1.0
+       fellow countrymen = True              neg : pos    =      4.5 : 1.0
+                   minju = True              neg : pos    =      4.5 : 1.0
+             minju joson = True              neg : pos    =      4.5 : 1.0
+0.9899497487437185
+completed in 101.45247912804285 minutes

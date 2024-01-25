@@ -1,0 +1,204 @@
+sent_3c_unibitri
+Most Informative Features
+             kim_jong_il = True              pos : neg    =     60.3 : 1.0
+                     war = True              neg : neutra =     54.3 : 1.0
+                  songun = True              pos : neg    =     51.0 : 1.0
+                   great = True              pos : neg    =     51.0 : 1.0
+           revolutionary = True              pos : neg    =     45.7 : 1.0
+           korean people = True              pos : neg    =     39.7 : 1.0
+       the korean people = True              pos : neg    =     38.3 : 1.0
+                 nuclear = True              neg : neutra =     38.3 : 1.0
+                   juche = True              pos : neutra =     32.3 : 1.0
+                    idea = True              pos : neutra =     28.3 : 1.0
+               socialist = True              pos : neg    =     27.0 : 1.0
+                     usa = True              neg : neutra =     25.9 : 1.0
+              leadership = True              pos : neutra =     25.7 : 1.0
+                 against = True              neg : neutra =     23.8 : 1.0
+                building = True              pos : neg    =     21.7 : 1.0
+                  forces = True              neg : neutra =     18.2 : 1.0
+                     kim = True           neutra : neg    =     17.7 : 1.0
+                reckless = True              neg : pos    =     17.0 : 1.0
+                   group = True              neg : pos    =     17.0 : 1.0
+                    life = True              pos : neutra =     16.3 : 1.0
+                  always = True              pos : neg    =     16.3 : 1.0
+                  policy = True              neg : neutra =     16.3 : 1.0
+                politics = True              pos : neutra =     15.7 : 1.0
+               socialism = True              pos : neutra =     15.7 : 1.0
+                  sent a = True           neutra : pos    =     15.0 : 1.0
+                  should = True              neg : neutra =     15.0 : 1.0
+                  firmly = True              pos : neg    =     15.0 : 1.0
+                    yong = True           neutra : neg    =     15.0 : 1.0
+                    june = True           neutra : neg    =     14.6 : 1.0
+                 nothing = True              neg : neutra =     14.3 : 1.0
+                    here = True           neutra : neg    =     14.3 : 1.0
+              juche idea = True              pos : neutra =     14.3 : 1.0
+                 forward = True              pos : neutra =     13.7 : 1.0
+                     all = True              pos : neutra =     13.4 : 1.0
+                   cause = True              pos : neg    =     13.4 : 1.0
+                    were = True           neutra : neg    =     13.4 : 1.0
+                    will = True              pos : neutra =     13.3 : 1.0
+                  fellow = True              neg : pos    =     13.0 : 1.0
+              warmongers = True              neg : pos    =     13.0 : 1.0
+              countrymen = True              neg : pos    =     13.0 : 1.0
+       fellow countrymen = True              neg : pos    =     13.0 : 1.0
+                     wpk = True              pos : neg    =     12.3 : 1.0
+               officials = True           neutra : neg    =     12.3 : 1.0
+                     the = False          neutra : pos    =     12.3 : 1.0
+                  leader = True              pos : neutra =     12.2 : 1.0
+               said that = True              pos : neutra =     12.2 : 1.0
+                      `` = True              neg : pos    =     12.1 : 1.0
+                      '' = True              neg : pos    =     11.9 : 1.0
+         army and people = True              pos : neg    =     11.7 : 1.0
+                   china = True           neutra : pos    =     11.7 : 1.0
+                security = True              neg : neutra =     11.7 : 1.0
+                    sent = True           neutra : neg    =     11.7 : 1.0
+                  threat = True              neg : pos    =     11.7 : 1.0
+            independence = True              pos : neutra =     11.6 : 1.0
+                military = True              neg : neutra =     11.4 : 1.0
+             kim_jong_un = True              pos : neutra =     11.0 : 1.0
+                   never = True              neg : pos    =     11.0 : 1.0
+          the juche idea = True              pos : neutra =     11.0 : 1.0
+            successfully = True              pos : neutra =     11.0 : 1.0
+                     day = True           neutra : neg    =     11.0 : 1.0
+           confrontation = True              neg : pos    =     10.7 : 1.0
+                 country = True              pos : neg    =     10.7 : 1.0
+                 eternal = True              pos : neutra =     10.3 : 1.0
+                       ( = True           neutra : neg    =     10.3 : 1.0
+                    even = True              neg : pos    =     10.3 : 1.0
+                   might = True              pos : neg    =     10.3 : 1.0
+                     era = True              pos : neg    =     10.3 : 1.0
+                       ) = True           neutra : neg    =     10.3 : 1.0
+                  puppet = True              neg : pos    =     10.2 : 1.0
+                   human = True              pos : neutra =      9.7 : 1.0
+               presidium = True           neutra : pos    =      9.7 : 1.0
+                     off = True              neg : neutra =      9.7 : 1.0
+             war against = True              neg : pos    =      9.7 : 1.0
+                   first = True           neutra : neg    =      9.7 : 1.0
+                     rok = True              neg : pos    =      9.4 : 1.0
+             nuclear war = True              neg : pos    =      9.4 : 1.0
+                 on june = True           neutra : pos    =      9.3 : 1.0
+                      he = True              pos : neutra =      9.1 : 1.0
+                      up = True              neg : neutra =      9.0 : 1.0
+          hostile policy = True              neg : pos    =      9.0 : 1.0
+           policy toward = True              neg : pos    =      9.0 : 1.0
+                 devoted = True              pos : neg    =      9.0 : 1.0
+               situation = True              neg : pos    =      9.0 : 1.0
+               pyongyang = True           neutra : neg    =      9.0 : 1.0
+                   japan = True              neg : pos    =      8.7 : 1.0
+                  people = True              pos : neg    =      8.7 : 1.0
+                    such = True              neg : neutra =      8.6 : 1.0
+                   party = True              pos : neg    =      8.4 : 1.0
+          supreme people = True           neutra : pos    =      8.3 : 1.0
+   hostile policy toward = True              neg : pos    =      8.3 : 1.0
+                  russia = True           neutra : neg    =      8.3 : 1.0
+                ceremony = True           neutra : pos    =      8.3 : 1.0
+                  monday = True           neutra : neg    =      8.3 : 1.0
+                assembly = True           neutra : pos    =      8.3 : 1.0
+                kim yong = True           neutra : pos    =      8.3 : 1.0
+                  turned = True              pos : neg    =      8.3 : 1.0
+               secretary = True              pos : neg    =      8.3 : 1.0
+             's assembly = True           neutra : pos    =      8.3 : 1.0
+                    city = True           neutra : neg    =      8.3 : 1.0
+               commander = True              pos : neg    =      8.3 : 1.0
+                     nam = True           neutra : pos    =      8.3 : 1.0
+                 advance = True              pos : neg    =      8.3 : 1.0
+               statement = True              pos : neutra =      8.2 : 1.0
+                  defend = True              pos : neg    =      7.7 : 1.0
+                   staff = True           neutra : pos    =      7.7 : 1.0
+                 he said = True              pos : neg    =      7.7 : 1.0
+               anti-dprk = True              neg : pos    =      7.7 : 1.0
+                 efforts = True              pos : neg    =      7.7 : 1.0
+                 leading = True              pos : neg    =      7.7 : 1.0
+             kim_il_sung = True              pos : neutra =      7.5 : 1.0
+               committee = True           neutra : neg    =      7.3 : 1.0
+                 towards = True              neg : pos    =      7.0 : 1.0
+                historic = True              pos : neg    =      7.0 : 1.0
+              developing = True              pos : neutra =      7.0 : 1.0
+                    took = True           neutra : neg    =      7.0 : 1.0
+      leader kim_jong_il = True              pos : neutra =      7.0 : 1.0
+                  bureau = True           neutra : pos    =      7.0 : 1.0
+              university = True           neutra : pos    =      7.0 : 1.0
+                yong nam = True           neutra : pos    =      7.0 : 1.0
+                  toward = True              neg : pos    =      7.0 : 1.0
+                    long = True              pos : neutra =      7.0 : 1.0
+              successful = True              pos : neg    =      7.0 : 1.0
+            struggle for = True              pos : neg    =      7.0 : 1.0
+               can never = True              neg : pos    =      7.0 : 1.0
+                 central = True           neutra : neg    =      7.0 : 1.0
+                   noted = True              pos : neg    =      7.0 : 1.0
+                chairman = True              pos : neg    =      7.0 : 1.0
+                   power = True              pos : neg    =      6.8 : 1.0
+                    that = True              pos : neutra =      6.6 : 1.0
+                 message = True           neutra : pos    =      6.6 : 1.0
+                struggle = True              pos : neg    =      6.4 : 1.0
+                    said = True              pos : neg    =      6.4 : 1.0
+                    well = True              neg : pos    =      6.3 : 1.0
+                they are = True              neg : neutra =      6.3 : 1.0
+               wednesday = True           neutra : neg    =      6.3 : 1.0
+                 chinese = True           neutra : pos    =      6.3 : 1.0
+              department = True           neutra : pos    =      6.3 : 1.0
+                   built = True              pos : neutra =      6.3 : 1.0
+                    choe = True           neutra : neg    =      6.3 : 1.0
+                    hard = True              neg : pos    =      6.3 : 1.0
+                speakers = True              pos : neg    =      6.3 : 1.0
+            kim yong nam = True           neutra : pos    =      6.3 : 1.0
+               according = True           neutra : pos    =      6.3 : 1.0
+                 through = True              pos : neutra =      6.3 : 1.0
+                 defence = True              pos : neutra =      6.3 : 1.0
+                campaign = True              neg : pos    =      6.3 : 1.0
+                   fully = True              pos : neutra =      6.3 : 1.0
+                  colors = True              neg : pos    =      6.3 : 1.0
+                   issue = True              neg : pos    =      6.3 : 1.0
+                    held = True           neutra : neg    =      6.2 : 1.0
+                    army = True              pos : neg    =      6.1 : 1.0
+              aggression = True              neg : pos    =      5.9 : 1.0
+                  korean = True              pos : neutra =      5.8 : 1.0
+          popular masses = True              pos : neg    =      5.7 : 1.0
+             independent = True              pos : neutra =      5.7 : 1.0
+      the popular masses = True              pos : neg    =      5.7 : 1.0
+                as it is = True              neg : pos    =      5.7 : 1.0
+                   being = True              neg : neutra =      5.7 : 1.0
+                 popular = True              pos : neg    =      5.7 : 1.0
+                     air = True           neutra : neg    =      5.7 : 1.0
+                  not be = True              neg : pos    =      5.7 : 1.0
+                  friday = True           neutra : neg    =      5.7 : 1.0
+                      ri = True           neutra : pos    =      5.7 : 1.0
+                  before = True              pos : neg    =      5.7 : 1.0
+                     man = True              pos : neg    =      5.7 : 1.0
+              there were = True           neutra : pos    =      5.7 : 1.0
+                     men = True           neutra : neg    =      5.7 : 1.0
+                 praised = True              pos : neg    =      5.7 : 1.0
+                research = True           neutra : pos    =      5.7 : 1.0
+                    deep = True              pos : neutra =      5.7 : 1.0
+                    acts = True              neg : pos    =      5.7 : 1.0
+                      15 = True           neutra : neg    =      5.7 : 1.0
+                  masses = True              pos : neg    =      5.7 : 1.0
+                  sports = True           neutra : pos    =      5.7 : 1.0
+                   armed = True              pos : neutra =      5.7 : 1.0
+                 carried = True              pos : neg    =      5.7 : 1.0
+            armed forces = True              pos : neutra =      5.7 : 1.0
+                     kpa = True              pos : neutra =      5.7 : 1.0
+                  launch = True              neg : neutra =      5.7 : 1.0
+                   state = True           neutra : neg    =      5.6 : 1.0
+      confrontation with = True              neg : pos    =      5.6 : 1.0
+              delegation = True           neutra : pos    =      5.4 : 1.0
+                    once = True              neg : pos    =      5.4 : 1.0
+                    dear = True              pos : neg    =      5.4 : 1.0
+           a nuclear war = True              neg : pos    =      5.4 : 1.0
+                   their = True              pos : neutra =      5.4 : 1.0
+                      as = True              pos : neutra =      5.3 : 1.0
+                     his = True              pos : neg    =      5.1 : 1.0
+               more than = True           neutra : pos    =      5.0 : 1.0
+                  staged = True              neg : neutra =      5.0 : 1.0
+                  sunday = True           neutra : neg    =      5.0 : 1.0
+               , he said = True              pos : neg    =      5.0 : 1.0
+               displayed = True              pos : neg    =      5.0 : 1.0
+                    fact = True              neg : neutra =      5.0 : 1.0
+         toward the dprk = True              neg : pos    =      5.0 : 1.0
+                 frantic = True              neg : pos    =      5.0 : 1.0
+                    good = True              pos : neg    =      5.0 : 1.0
+                  mental = True              pos : neg    =      5.0 : 1.0
+                   final = True              pos : neg    =      5.0 : 1.0
+                     she = True              neg : neutra =      5.0 : 1.0
+0.9811111111111112
+completed in 41.19748030900955 minutes
